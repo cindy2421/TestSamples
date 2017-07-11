@@ -1,0 +1,6 @@
+This is a sample file for testSamples
+
+semisweet
+bitter
+dark
+milk
