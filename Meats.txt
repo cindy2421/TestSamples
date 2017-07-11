@@ -1,0 +1,9 @@
+This is a test file for TestSamples;
+
+Pork
+Chicken
+Beef
+Turkey
+Duck
+Goose
+Rabbit
