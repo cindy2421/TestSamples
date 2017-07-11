@@ -7,3 +7,4 @@ Turkey
 Duck
 Goose
 Rabbit
+Lamb
